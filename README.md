@@ -1,10 +1,7 @@
-# daytona
+# Daytona
 
-daytona é um gerenciador de ambiente de desenvolvimento que garante que todos os membros da equipe de desenvolvimento estejam trabalhando no mesmo ambiente
+Daytona é um gerenciador de ambiente de desenvolvimento que permite que todos os membros da equipe de desenvolvimento estejam trabalhando no mesmo ambiente.
 
-## referências
+## Referências
 
-- github: [https://github.com/daytonaio](https://github.com/daytonaio)
-
-
-
+- Github: [https://github.com/daytonaio](https://github.com/daytonaio)
